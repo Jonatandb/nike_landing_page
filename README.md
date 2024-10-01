@@ -2,7 +2,7 @@
 
 ## Live demo
 
-- [Nike Landing Page Online](http://jonatandb.dev.ar/nike_landing_page/)
+- [Nike Landing Page Online](http://jonatandb.dev.ar/nike_landing_page/) (⚠ Work in progress ⚠)
 
 
 
