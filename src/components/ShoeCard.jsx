@@ -7,7 +7,7 @@ const ShoeCard = ({ shoeData, bigShoeImg, changeBigShoeImage }) => {
 
   return (
     <div
-      className={`border-2 rounded-xl cursor-pointer nax-sm:flex-1 ${
+      className={`border-2 rounded-xl cursor-pointer max-sm:flex-1 ${
         bigShoeImg === shoeData.bigShoe ? 'border-coral-red' : ''
       }`}
       onClick={handleClick}
