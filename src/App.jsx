@@ -51,10 +51,10 @@ const App = () => {
       <section className='animateFromLeft padding'>
         <SpecialOffer />
       </section>
-      <section className='animateFromRight padding bg-pale-blue'>
+      <section className='padding bg-pale-blue'>
         <CustomerReviews />
       </section>
-      <section className='animateFromLeft padding-x sm:py-32 py-16 w-full'>
+      <section className='padding-x sm:py-32 py-16 w-full'>
         <Subscribe />
       </section>
       <section className='padding-x padding-t bg-black pb-8'>
