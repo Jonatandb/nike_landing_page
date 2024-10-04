@@ -57,7 +57,7 @@ const App = () => {
       <section className='animateFromLeft padding-x sm:py-32 py-16 w-full'>
         <Subscribe />
       </section>
-      <section className='animate padding-x padding-t bg-black pb-8'>
+      <section className='padding-x padding-t bg-black pb-8'>
         <Footer />
       </section>
     </main>
